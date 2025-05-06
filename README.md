@@ -43,5 +43,4 @@ git clone https://github.com/<your‑user>/alura-store-br-analysis.git
 cd alura-store-br-analysis
 
 # open the notebook in Colab
-# (just click the badge in this README once you push)
-
+# https://colab.research.google.com/github/rshermans/alura-store-br-analysis/blob/main/AluraStoreBR.ipynb
